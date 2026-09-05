@@ -1,0 +1,6 @@
+{
+  "name": "NDcertiCheck",
+  "description": "Academic certificate discrepancy auditor with OCR scanning, character-by-character diff verification, rectifying letter generation, and privacy PIN vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
